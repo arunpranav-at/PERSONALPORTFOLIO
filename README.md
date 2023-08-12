@@ -1,5 +1,4 @@
-# Portfolio Responsive Complete
-# Portfolio Responsive Complete
+# Arun Pranav A T's Personal Portfolio
 
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
 - Contains animations when scrolling.
